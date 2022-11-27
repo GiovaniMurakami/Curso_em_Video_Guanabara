@@ -1,2 +1,2 @@
-# Curso_em_Video_Guanabara
+# Curso em Video - Guanabara
 Repositório com aulas, exercícios e desafios do curso de JavaScript (Curso em Vídeo)
